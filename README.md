@@ -1,6 +1,11 @@
-# hotel
+# hotel booking page UI using flutter
 
-A new Flutter project.
+Hotel Booking system UI along with progress bar & page Navigation. 
+Used Stack and using media queries. 
+
+![image](https://user-images.githubusercontent.com/37849194/179358305-97697859-986a-4d78-aad9-481180036297.png)
+![image](https://user-images.githubusercontent.com/37849194/179358309-2c299e83-2eea-44b8-a8cc-0ad41738e4a1.png)
+
 
 ## Getting Started
 
@@ -15,5 +20,5 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![image](https://user-images.githubusercontent.com/37849194/178101057-803dfe56-ce2e-45b6-84b8-3eafd541fca2.png)
+
 
